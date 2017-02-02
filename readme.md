@@ -9,9 +9,9 @@ Be sure to share your progress!(create links from the table below to the readme 
 
 #Test Challenges!
 *Complete in any order you like!*
-- [ ] Read a security blog
-- [ ] Select and read a book related to security testing.
-- [ ] Use a security tool - Examples:  ZAP or BurpSuite.
+- [x] Read a security blog
+- [x] Select and read a book related to security testing.
+- [x] Use a security tool - Examples:  ZAP or BurpSuite.
 - [ ] Learn anything about Vulnerability Scanning.
 - [ ] Learn about Threat Modelling (ie like the STRIDE Model).
 - [ ] Explore these sites: Google gruyere; HackYourself First; Ticket Magpie; The BodgeIt store.
