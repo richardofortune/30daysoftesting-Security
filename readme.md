@@ -12,8 +12,8 @@ Be sure to share your progress!(create links from the table below to the readme 
 - [x] Read a security blog
 - [x] Select and read a book related to security testing.
 - [x] Use a security tool - Examples:  ZAP or BurpSuite.
-- [ ] Learn anything about Vulnerability Scanning.
-- [ ] Learn about Threat Modelling (ie like the STRIDE Model).
+- [x] Learn anything about Vulnerability Scanning.
+- [x] Learn about Threat Modelling (ie like the STRIDE Model).
 - [ ] Explore these sites: Google gruyere; HackYourself First; Ticket Magpie; The BodgeIt store.
 - [ ] Learn one or more things about Penetration testing.
 - [ ] Use a proxy tool to observe web traffic in a web or mobile application.
