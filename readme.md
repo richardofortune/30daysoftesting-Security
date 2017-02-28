@@ -40,6 +40,7 @@ Be sure to share your progress!(create links from the table below to the readme 
 - [ ] Research security regulations regarding a specific domain.
 - [ ] Discover the difference between White, Grey, and Black Hat Hacking.
 - [ ] BONUS: Take part in a bug bounty.
+- [ ] BONUS: Complete AWS Sec training [http://flaws.cloud/](http://flaws.cloud/)
 
 
 #Source
